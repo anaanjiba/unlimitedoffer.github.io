@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+05:13:33	6261/6261	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%225522-U/Dxoak8kLnGl3Skn9TQUc8Fm2o%22	http://mamun9723.pagedemo.co/robots.txt		(from )
+05:13:33	24881/24881	---MCZ	200	added ('OK')	text/html	etag:W/%226131-84fqIdgMYxgeuQiFGjhQ9JBNBZA%22	http://mamun9723.pagedemo.co/	C:/My%20Web%20Sites/Looking%20Glass/mamun9723.pagedemo.co/index.html	(from )
